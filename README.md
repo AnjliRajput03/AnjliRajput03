@@ -2,17 +2,21 @@
 <h3 align="center"> 👩‍💻 Passionate web developer who loves turning ideas into code.</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **mastering MERN Stack**
-
-- 🌱 I’m always learning new things about **frameworks and technolgoies**
-
-- 👯I'm a self taught **developer**
-
-- 💬 Ask me about **react, mongo, javascript** 
-
-- 📫 How to reach me **ajili@gmail.com**
-
-- ⚡ Fun fact **Skilled in creating clean, responsive websites. Always learning and pushing boundaries!  🚀**
+<table border="0">
+  <tr>
+    <td>
+      - 🔭 I’m currently working on **mastering MERN Stack** <br>
+      - 🌱 I’m always learning new things about **frameworks and technologies** <br>
+      - 👯 I'm a self-taught **developer** <br>
+      - 💬 Ask me about **React, MongoDB, JavaScript** <br>
+      - 📫 How to reach me **ajili@gmail.com** <br>
+      - ⚡ Fun fact: **Skilled in creating clean, responsive websites. Always learning and pushing boundaries! 🚀**
+    </td>
+    <td align="right">
+      <img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" width="250" alt="Typing GIF"/>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Connect with me:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pramod-laha-2869552b5/](https://www.linkedin.com/in/anjli-rajput-107a64300/)) 
