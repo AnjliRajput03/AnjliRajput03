@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Anjili Rajput👋</h1>
+<h1 align="center">Hi there, I'm Anjli Rajput👋</h1>
 <h3 align="center"> 👩‍💻 Passionate web developer who loves turning ideas into code.</h3>
 
 # 💫 About Me:
