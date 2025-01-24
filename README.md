@@ -9,7 +9,7 @@
       - 🌱 I’m always learning new things about **frameworks and technologies** <br>
       - 👯 I'm a self-taught **developer** <br>
       - 💬 Ask me about **React, MongoDB, JavaScript** <br>
-      - 📫 How to reach me **ajili@gmail.com** <br>
+      - 📫 How to reach me **anjli@gmail.com** <br>
       - ⚡ Fun fact: **Skilled in creating clean, responsive websites. Always learning and pushing boundaries! 🚀**
     </td>
     <td align="right">
