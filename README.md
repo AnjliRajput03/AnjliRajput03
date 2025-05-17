@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Anjli Rajput👋</h1>
-<h3 align="center"> 👩‍💻 Passionate web designer who loves turning ideas into reality.</h3>
+<h3 align="center"> 👩‍💻 Passionate " Web designer  "who loves turning ideas into reality.</h3>
 
 # 💫 About Me:
 <table border="0">
   <tr>
     <td>
-      - 🔭 I’m currently working on **mastering Ui/UX** <br>
+      - 🔭 I’m currently working on **Mastering UI/UX** <br>
       - 🌱 I’m always learning new things about **tools and new techx** <br>
       - 👯 I'm a self-taught **designer** <br>
       - 💬 Ask me about **Figma,Bootstrap** <br>
