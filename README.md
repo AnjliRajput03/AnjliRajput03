@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Anjli Rajput👋</h1>
-<h3 align="center"> 👩‍💻 Passionate web developer who loves turning ideas into code.</h3>
+<h3 align="center"> 👩‍💻 Passionate web designer who loves turning ideas into reality.</h3>
 
 # 💫 About Me:
 <table border="0">
   <tr>
     <td>
-      - 🔭 I’m currently working on **mastering MERN Stack** <br>
-      - 🌱 I’m always learning new things about **frameworks and technologies** <br>
-      - 👯 I'm a self-taught **developer** <br>
-      - 💬 Ask me about **React, MongoDB, JavaScript** <br>
+      - 🔭 I’m currently working on **mastering Ui/UX** <br>
+      - 🌱 I’m always learning new things about **tools and new techx** <br>
+      - 👯 I'm a self-taught **designer** <br>
+      - 💬 Ask me about **Figma,Bootstrap** <br>
       - 📫 How to reach me **anjli@gmail.com** <br>
       - ⚡ Fun fact: **Skilled in creating clean, responsive websites. Always learning and pushing boundaries! 🚀**
     </td>
@@ -19,10 +19,10 @@
 </table>
 
 ## 🌐 Connect with me:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pramod-laha-2869552b5/](https://www.linkedin.com/in/anjli-rajput-107a64300/)) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pramod-laha-2869552b5/](https://www.linkedin.com/in/anjli-rajput-5b951a361)) 
 
 # 💻 Languages and Tools:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AnjliRajput03&theme=tokyonight&bg_color=00000000&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale&show=prs_merged,prs_merged_percentage&rank_icon=github
 )<br/><br/>
